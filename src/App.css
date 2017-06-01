@@ -22,12 +22,12 @@
   
   font-size: large;
 
-  color: #666666;
+  color: #666666;  
 }
 
 
 
-p.App-intro a {
+p a {
   text-decoration: none;
   color: #4DB6AC;
 }
