@@ -18,7 +18,8 @@ class App extends React.Component {
           I can help you type less. All you need to do is to type &#35;, &#64;, &#60; and select the rest from a list. 
         </p>
          <p> 
-          Click <a href=" https://cookiesncream.github.io/autocomplete-hashtags/index.html">&#35;</a> for &#35; autocomplete, <a href="https://cookiesncream.github.io/autocomplete-mentions/index.html">&#64;</a> for &#64; autocomplete, <a href="https://cookiesncream.github.io/autocomplete-relations/index.html">&#60;&#62;</a> for &#60;&#62; autocomplete, and <a href="https://cookiesncream.github.io/autocomplete-mentions-pure-hashtags/index.html">autocomplete mentions and pure &#35;</a> for the hybrid.     
+          Click <a href="https://autocomplete-hashtags.firebaseapp.com">&#35;</a> for &#35; autocomplete, <a href="https://autocomplete-mentions.firebaseapp.com">&#64;</a> for &#64; autocomplete, <a href="https://autocomplete-relations.firebaseapp.com
+">&#60;&#62;</a> for &#60;&#62; autocomplete, and <a href="https://autocomplete-mentions-hashtags.firebaseapp.com">autocomplete mentions and pure &#35;</a> for the hybrid.     
 
         </p>
       </div>
